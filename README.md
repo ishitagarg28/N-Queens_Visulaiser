@@ -3,7 +3,7 @@
 **N-Queens Visualiser** is an interactive web application designed to visually demonstrate the N-Queens problem using backtracking algorithm. The application allows users to  view each step as the algorithm progresses, and better understand how backtracking  solve the problem.
 
 ## Demo
- **Deployed link**: [N-Queens-Visualiser](https://n-queens-visualiser-by-akarsh.netlify.app/)
+ **Deployed link**: [N-Queens-Visualiser](https://ishitagarg28.github.io/N-Queens_Visulaiser/)
 ## Features
 - **Visual Representation**: See real-time visualization of the algorithm placing queens on the chessboard.
 - **Backtracking Algorithms**: Explore solutions using **Backtracking** algorithm.
@@ -34,7 +34,7 @@ The **N-Queens problem** involves placing N queens on an N x N chessboard such t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Akarsh2012/N-Queens-Visualiser.git
+   https://github.com/ishitagarg28/N-Queens_Visulaiser.git
    ```
 2. Open the project folder:
    ```bash
